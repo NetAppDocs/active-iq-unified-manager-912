@@ -32,3 +32,6 @@ You must have root user access to the Red Hat Enterprise Linux or CentOS server 
 `systemctl start ocie`
 +
 `systemctl start ocieau`
++
+[NOTE]
+`mysqld` is a daemon program required to start and stop the MySQL server.
